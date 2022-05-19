@@ -1,2 +1,2 @@
-# datashets-java-google-sheets
-A connector for Datashets to Google Sheets (in Java)
+# richdatashets-live-google-sheets-java
+A connector for Richdatashets to Google Sheets (in Java)
