@@ -1,0 +1,6 @@
+https://developers.google.com/sheets/api
+https://developers.google.com/sheets/api/reference/rest
+https://googleapis.dev/java/google-api-services-sheets/latest/
+
+https://developers.google.com/drive/api/guides/manage-comments
+https://developers.google.com/drive/api/
